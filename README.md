@@ -302,23 +302,6 @@ The application was tested using Postman.
 | Unauthorized Access Handling | ✅ Passed |
 | Admin Route Access           | ✅ Passed |
 
----
-
-## 📸 Output Screenshots
-
-Add screenshots in a `screenshots` folder and update the paths below:
-
-```markdown
-![Register](screenshots/register.png)
-
-![Login](screenshots/login.png)
-
-![Dashboard](screenshots/dashboard.png)
-
-![Admin](screenshots/admin.png)
-
-![MongoDB](screenshots/mongodb.png)
-```
 
 ---
 
